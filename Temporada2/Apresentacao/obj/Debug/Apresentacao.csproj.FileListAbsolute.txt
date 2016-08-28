@@ -1,0 +1,17 @@
+D:\Learn\Drauzio\Temporada2\Temporada2\Apresentacao\bin\Debug\Apresentacao.exe.config
+D:\Learn\Drauzio\Temporada2\Temporada2\Apresentacao\bin\Debug\Apresentacao.exe
+D:\Learn\Drauzio\Temporada2\Temporada2\Apresentacao\bin\Debug\Apresentacao.pdb
+D:\Learn\Drauzio\Temporada2\Temporada2\Apresentacao\obj\Debug\Apresentacao.csprojResolveAssemblyReference.cache
+D:\Learn\Drauzio\Temporada2\Temporada2\Apresentacao\obj\Debug\Apresentacao.Properties.Resources.resources
+D:\Learn\Drauzio\Temporada2\Temporada2\Apresentacao\obj\Debug\Apresentacao.csproj.GenerateResource.Cache
+D:\Learn\Drauzio\Temporada2\Temporada2\Apresentacao\obj\Debug\Apresentacao.exe
+D:\Learn\Drauzio\Temporada2\Temporada2\Apresentacao\obj\Debug\Apresentacao.pdb
+D:\Learn\Drauzio\Temporada2\Temporada2\Apresentacao\obj\Debug\Apresentacao.frmMenu.resources
+D:\Learn\Drauzio\Temporada2\Temporada2\Apresentacao\obj\Debug\Apresentacao.frmPedidoVendaCadastrar.resources
+D:\Learn\Drauzio\Temporada2\Temporada2\Apresentacao\obj\Debug\Apresentacao.frmFilialPesquisar.resources
+D:\Learn\Drauzio\Temporada2\Temporada2\Apresentacao\bin\Debug\Negocios.dll
+D:\Learn\Drauzio\Temporada2\Temporada2\Apresentacao\bin\Debug\ObjetoTransferencia.dll
+D:\Learn\Drauzio\Temporada2\Temporada2\Apresentacao\bin\Debug\AcessoBancoDados.dll
+D:\Learn\Drauzio\Temporada2\Temporada2\Apresentacao\bin\Debug\Negocios.pdb
+D:\Learn\Drauzio\Temporada2\Temporada2\Apresentacao\bin\Debug\ObjetoTransferencia.pdb
+D:\Learn\Drauzio\Temporada2\Temporada2\Apresentacao\bin\Debug\AcessoBancoDados.pdb

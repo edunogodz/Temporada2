@@ -1,0 +1,9 @@
+D:\Learn\Drauzio\Temporada2\Temporada2\Negocios\bin\Debug\Negocios.dll
+D:\Learn\Drauzio\Temporada2\Temporada2\Negocios\bin\Debug\Negocios.pdb
+D:\Learn\Drauzio\Temporada2\Temporada2\Negocios\obj\Debug\Negocios.dll
+D:\Learn\Drauzio\Temporada2\Temporada2\Negocios\obj\Debug\Negocios.pdb
+D:\Learn\Drauzio\Temporada2\Temporada2\Negocios\bin\Debug\AcessoBancoDados.dll
+D:\Learn\Drauzio\Temporada2\Temporada2\Negocios\bin\Debug\ObjetoTransferencia.dll
+D:\Learn\Drauzio\Temporada2\Temporada2\Negocios\bin\Debug\AcessoBancoDados.pdb
+D:\Learn\Drauzio\Temporada2\Temporada2\Negocios\bin\Debug\ObjetoTransferencia.pdb
+D:\Learn\Drauzio\Temporada2\Temporada2\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
